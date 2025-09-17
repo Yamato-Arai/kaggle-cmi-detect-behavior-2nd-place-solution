@@ -1,0 +1,11 @@
+numpy
+pandas
+polars
+torch
+lightning
+scikit-learn
+transformers
+scipy
+tqdm
+tyro
+wandb
